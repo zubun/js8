@@ -28,3 +28,4 @@ let filterSizeWrap = document.querySelector('.filterSizeWrap');
 filterSizeWrap.addEventListener('click', () => {
   filterSizes.classList.toggle('hidden');
 });
+
